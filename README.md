@@ -1,4 +1,3 @@
-# talentai-job-screening-assistant
 # TalentAI: Multi-Agent Job Screening Assistant
 
 TalentAI is an intelligent assistant designed to automate and enhance the job screening process using Generative AI and a multi-agent system. It analyzes job descriptions, parses candidate resumes, and ranks applicants based on relevance and qualifications—saving time and reducing human bias.
